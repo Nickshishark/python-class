@@ -1,0 +1,6 @@
+name=input("What is your name?")
+age=input("How old are you?")
+nationality=input("Where are you from?")
+hobby=input ("What is one of your hobby?")
+funfact=input("What is one of your fun fact?")
+print(f"Your name is {name}. Your are {age} years old. You are from {nationality}. One of your hobby is {hobby}. One of your fun fact is {funfact}")
